@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F86B32DF-4098-4D9C-ADD4-D54F636FA80C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KEJSONModel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1113CF5-CF18-43C4-B98A-70D86073B172</key>
+		<string>https://github.com/kazekim/KEJSONModel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KEJSONModel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1113CF5-CF18-43C4-B98A-70D86073B172</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kazekim/KEJSONModel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1113CF5-CF18-43C4-B98A-70D86073B172</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1113CF5-CF18-43C4-B98A-70D86073B172</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KEJSONModel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
