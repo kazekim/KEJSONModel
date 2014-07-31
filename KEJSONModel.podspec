@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KEJSONModel"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "JSON Object Mapper for ios"
   s.platform     = :ios, '6.0'
   s.source       = { :git => "https://github.com/kazekim/KEJSONModel.git" ,
