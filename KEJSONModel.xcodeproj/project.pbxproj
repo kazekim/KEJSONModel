@@ -39,7 +39,6 @@
 /* Begin PBXFileReference section */
 		1B27106B17867AD400B14E6C /* libKEJSONModel.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libKEJSONModel.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B27106E17867AD400B14E6C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1B27107217867AD400B14E6C /* KEJSONModel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KEJSONModel-Prefix.pch"; sourceTree = "<group>"; };
 		1B27107317867AD400B14E6C /* KEJSONModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KEJSONModel.h; sourceTree = "<group>"; };
 		1B27107517867AD400B14E6C /* KEJSONModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KEJSONModel.m; sourceTree = "<group>"; };
 		1B27108117867C0D00B14E6C /* KEJSONModelTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KEJSONModelTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,6 +58,7 @@
 		1B57249817868F610071D1CA /* Menu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Menu.m; sourceTree = "<group>"; };
 		1BE4D6AF179E369300BD3B3F /* Status.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Status.h; sourceTree = "<group>"; };
 		1BE4D6B0179E369300BD3B3F /* Status.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Status.m; sourceTree = "<group>"; };
+		DFBB4A9F198A9D5100EFFA80 /* KEJSONModel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KEJSONModel-Prefix.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +126,7 @@
 		1B27107117867AD400B14E6C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1B27107217867AD400B14E6C /* KEJSONModel-Prefix.pch */,
+				DFBB4A9F198A9D5100EFFA80 /* KEJSONModel-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
